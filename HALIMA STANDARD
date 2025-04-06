@@ -1,0 +1,89 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Halima Standard School</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f9ff;
+      color: #333;
+    }
+    header {
+      background-color: #007bff;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav {
+      background-color: #0056b3;
+      padding: 0.5rem;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 2rem;
+    }
+    footer {
+      background-color: #007bff;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+    .gallery img {
+      width: 200px;
+      margin: 10px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Halima Standard School</h1>
+    <p>Tudun-Yola, Kano State</p>
+  </header>
+
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#gallery">Gallery</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="home">
+    <h2>Welcome to Halima Standard School</h2>
+    <p>Providing quality education and nurturing young minds for a brighter future.</p>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Halima Standard School is a dedicated educational institution based in Tudun-Yola, Kano State. Our mission is to foster learning, discipline, and character development in all our students.</p>
+  </section>
+
+  <section id="gallery">
+    <h2>Gallery</h2>
+    <div class="gallery">
+      <img src="https://via.placeholder.com/200" alt="School Image 1" />
+      <img src="https://via.placeholder.com/200" alt="School Image 2" />
+      <img src="https://via.placeholder.com/200" alt="School Image 3" />
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:bilyaminuaminuyakubu022@gmail.com">bilyaminuaminuyakubu022@gmail.com</a></p>
+    <p>Location: Tudun-Yola, Kano State</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Halima Standard School. All rights reserved.</p>
+  </footer>
+</body>
+</html>
